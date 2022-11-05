@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuessColor</string>
+    <string name="heading">Guess the Color</string>
+</resources>
